@@ -1,7 +1,7 @@
 # Angular Project Boilerplate
 Basic Angular Project Boilerplate
 
-### Things still needing to be setup
+### Items still needing to be setup
 * Grunt task configuration(Minification, Concat, Watch, Build, jshint, etc)
 * jshint file
 * jscs file
